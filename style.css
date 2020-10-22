@@ -3,6 +3,7 @@ body {
   padding-right: 200px;
   padding-bottom: 50px; 
   padding-left: 200px; 
- 
+ background-color: green; 
+  opacity: 0.3%
 }
 
